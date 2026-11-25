@@ -9,14 +9,18 @@ This repository showcases my certifications, technical training, and continued p
 ## Certifications & Credentials
 
 ### CompTIA
+
 - **CompTIA A+ Core 2** — Passed
 - **CompTIA A+ Core 1** — In progress
 
 *CompTIA A+ certification requires passing both Core 1 and Core 2.*
 
-### Per Scholas
-- IT Support Training Certificate
-- AI Skills for IT Support Credential
+ ## Per Scholas Training & Credentials
+
+- [IT Support Training Certificate](02-Per-Scholas/Per%20Scholas%20Certificate%20-%20IT%20Support%20Training%20Program.jpg)
+- [IT Support Coursework Grades](02-Per-Scholas/Per-Scholas-IT-Support-Grades.pdf)
+- [AI Skills for IT Support Credential](02-Per-Scholas/Per%20Scholas%20Credentials%20-%20AI%20Skills%20for%20IT%20Support%20-%202026-11-20.png)
+- [AI Skills Grade Proof](02-Per-Scholas/Per-Scholas-AI-Skills-Grade-Proof.pdf)
 
 ### Google / Coursera
 - Google AI Essentials
