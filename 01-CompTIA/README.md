@@ -23,4 +23,4 @@ This folder documents my CompTIA certification progress and technical knowledge.
 
 ## Supporting Documentation
 
-Exam completion documentation or an official credential verification link may be added when appropriate.
+[View CompTIA A+ Core 2 Exam Proof](Comptia%20Core%202%20Proof.pdf)
