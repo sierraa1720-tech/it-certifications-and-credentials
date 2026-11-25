@@ -67,6 +67,15 @@ I am continuing to build hands-on technical skills through home labs, certificat
 
 Supporting certificates and badges will be organized by issuing organization.
 
+## Additional Digital Badges
+
+- IBM SkillsBuild – Cloud Computing Fundamentals
+- Cisco Networking Academy – Computer Hardware Basics
+- Cisco Networking Academy – Operating Systems Basics
+- Google – AI Essentials
+
+[View Additional Digital Badges](03-Additional-Digital-Badges/)
+
 Some documents may be represented by credential links or redacted copies to protect personal information.
 
 ---
