@@ -15,12 +15,11 @@ This folder documents my CompTIA certification progress and technical knowledge.
 - Software troubleshooting
 - Operational procedures
 - Technical support best practices
+  
+## Academic Achievement
 
-## Certification Status
-
-I have passed the CompTIA A+ Core 2 examination and am continuing to prepare for Core 1.
-
-The full CompTIA A+ certification will be earned after both required exams are passed.
+- CompTIA A+ coursework: B+ final grade.
+- Demonstrated consistent academic performance while completing IT certification training.
 
 ## Supporting Documentation
 
