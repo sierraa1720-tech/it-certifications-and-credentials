@@ -20,6 +20,7 @@ This folder documents my CompTIA certification progress and technical knowledge.
 
 - CompTIA A+ coursework: B+ final grade.
 - Demonstrated consistent academic performance while completing IT certification training.
+- [View CompTIA Coursework Grade Report](Grades%20For%20Sierra%20Archer%20COMPTIA%20Coursework.pdf)
 
 ## Supporting Documentation
 
