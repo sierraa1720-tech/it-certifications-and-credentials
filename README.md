@@ -37,7 +37,8 @@ This repository showcases my certifications, technical training, and continued p
 
 
 ### Additional Training
-- Simplilearn AI Certificate
+
+- [Simplilearn – Artificial Intelligence Beginners Guide](05-Additional-Training/Simplilearn%20AI%20Certificate.pdf)
 
 ## Technical Skills
 
