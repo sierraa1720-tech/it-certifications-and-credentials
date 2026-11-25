@@ -7,6 +7,6 @@ This folder documents additional technical and professional development.
 
 ### Artificial Intelligence Beginners Guide
 
-- [Simplilearn Certificate of Completion](Simplilearn-AI-Beginners-Guide.pdf)
+- [Simplilearn Certificate of Completion](Simplilearn%20AI%20Certificate.pdf)
 
 **Completion Date:** August 1, 2025
